@@ -1,0 +1,1 @@
+/home/vasiliy/wsOpenCV/opencv/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
